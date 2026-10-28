@@ -17,6 +17,9 @@ Arcade Vault: plataforma para jugar online y competir por puntos. Estado actual:
 
 Next 16.4.3 + React 19.3. Antes de escribir código, leer la guía relevante en `node_modules/next/dist/docs/` (`01-app`, `02-pages`, `03-architecture`, `04-community`; índice en `index.md`). Respetar avisos de deprecación. `AGENTS.md` lo exige (bloque regenerado por `next dev`; dejarlo).
 
+## Skills
+Usa siempre /frontend-design para diseñar la interfaz de usuario.
+
 ## Arquitectura / configuración
 
 - App Router en `app/`. Alias de imports `@/*` → raíz del repo.
